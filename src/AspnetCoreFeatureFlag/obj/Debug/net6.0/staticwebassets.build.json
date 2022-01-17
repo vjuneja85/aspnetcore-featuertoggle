@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E3rR4LZOa+GrI9DWOueaPl4mSgyUl9AAhi7GhszG2m0=",
+  "Source": "AspnetCoreFeatureFlag",
+  "BasePath": "_content/AspnetCoreFeatureFlag",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
